@@ -1,5 +1,5 @@
-# Atividade 1
-Repositório contendo os arquivos da atividade 1 da matéria "Estrutura de Dados" do 3° semestre do curso de Ciências de Dados e Negócios.
+# Atividade 2
+Repositório contendo os arquivos da atividade 2 da matéria "Estrutura de Dados" do 3° semestre do curso de Ciências de Dados e Negócios.
 
 ### 2025-01
 
